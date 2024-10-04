@@ -1,0 +1,8 @@
+Data/
+build/
+.ipynb_checkpoints
+.env
+*.pyc
+Data.zip
+.DS_Store
+.vscode/
